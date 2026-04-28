@@ -1,61 +1,53 @@
-<h1 align="center">Wenderson Souza 👨‍💻</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Wenderson+Souza;Backend+Developer;Disciplina+%7C+Consist%C3%AAncia+%7C+Foco&background=0D1117" />
+</div>
 
 <p align="center">
-🚀 Desenvolvedor backend | Java & Spring Boot <br>
-🎓 Engenharia de Software <br>
-🇧🇷 Brazil
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:1a1a2e&height=60&section=header"/>
 </p>
 
----
-
-## 📊 Estatísticas
+#
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=wendersoon10&show_icons=true&theme=gotham"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersoon10&layout=compact&theme=gotham"/>
+Estudante de Engenharia de Software com foco em backend.  
+Construindo APIs REST com Java e Spring Boot e explorando práticas de DevOps com Docker.  
+Sempre buscando evoluir e conhecer novas tecnologias.
 </p>
+
+#
+
+## ⚙️ Stacks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,postman,idea" height="45"/>
+</div>
+
+#
+
+<h3 align="left">Connect with me</h3>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wendersoon10)
+[![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wendersoon7)
+
+#
+
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <br>
+  
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=wendersoon10&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersoon10&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+#
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com/?user=wendersoon10&theme=gotham"/>
+“Você se torna aquilo que pensa repetidamente.”
 </p>
 
----
-
-## 🚀 Tech Stack
-
-### Backend
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### APIs & Documentation
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://github.com/wendersoon10">
-    <img src="https://img.shields.io/badge/GitHub-wendersoon10-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://instagram.com/wendersoon7">
-    <img src="https://img.shields.io/badge/Instagram-@wendersoon7-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+#
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wendersoon10/wendersoon10/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wendersoon10/wendersoon10/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wendersoon10/wendersoon10/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/wendersoon10/wendersoon10/output/github-contribution-grid-snake-dark.svg">
 </picture>
