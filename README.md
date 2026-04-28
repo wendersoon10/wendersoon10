@@ -26,8 +26,15 @@ Sempre buscando evoluir e conhecer novas tecnologias.
 
 <h3 align="left">Connect with me</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wendersoon10)
-[![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wendersoon7)
+<p align="left">
+  <a href="https://github.com/wendersoon10">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/wendersoon7">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=0A66C2"/>
+  </a>
+</p>
 
 #
 
