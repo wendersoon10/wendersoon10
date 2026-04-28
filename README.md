@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Wenderson+Souza;Backend+Developer;Disciplina+%7C+Consist%C3%AAncia+%7C+Foco&background=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Wenderson+Souza;Backend+Developer;Disciplina+%7C+Const%C3%A2ncia+%7C+Foco&background=0D1117" />
 </div>
 
 <p align="center">
