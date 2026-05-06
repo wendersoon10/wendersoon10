@@ -19,7 +19,8 @@ Sempre buscando evoluir e conhecer novas tecnologias.
 ## ⚙️ Stacks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,postman,idea" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,postman,idea" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="45"/>
 </div>
 
 #
@@ -42,9 +43,9 @@ Sempre buscando evoluir e conhecer novas tecnologias.
   <h3>GitHub Stats</h3>
   <br>
   
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=wendersoon10&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wendersoon10&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
   
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersoon10&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wendersoon10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 #
