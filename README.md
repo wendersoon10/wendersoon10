@@ -51,12 +51,6 @@ Sempre buscando evoluir e conhecer novas tecnologias.
 
 #
 
-<p align="center">
-“Você se torna aquilo que pensa repetidamente.”
-</p>
-
-#
-
 <picture align="center">
   <img src="https://raw.githubusercontent.com/wendersoon10/wendersoon10/output/github-contribution-grid-snake-dark.svg">
 </picture>
