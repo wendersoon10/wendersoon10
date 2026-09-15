@@ -1,5 +1,11 @@
+<!-- Banner -->
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/5e/7a/c3/5e7ac359a7851580d9e50d669ec16770.jpg" width="100%" />
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Wenderson+Souza;Backend+Developer;Disciplina+%7C+Const%C3%A2ncia+%7C+Foco&background=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Wenderson+Souza;Software+Engineer+%7C+DevOps;Disciplina+%7C+Const%C3%A2ncia+%7C+Foco&background=0D1117" />
 </div>
 
 <p align="center">
@@ -19,7 +25,7 @@ Sempre buscando evoluir e conhecer novas tecnologias.
 ## ⚙️ Stacks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,postman,idea" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,gitlab,aws,postman,idea" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="45"/>
   <img src="https://cdn.simpleicons.org/insomnia" height="45"/>
 </div>
@@ -37,17 +43,6 @@ Sempre buscando evoluir e conhecer novas tecnologias.
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=0A66C2"/>
   </a>
 </p>
-
-#
-
-<div align="center">
-  <h3>GitHub Stats</h3>
-  <br>
-  
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wendersoon10&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wendersoon10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</div>
 
 #
 
