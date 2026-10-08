@@ -26,8 +26,10 @@ Sempre buscando evoluir e conhecer novas tecnologias.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,gitlab,aws,postman,idea" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" height="45"/>
   <img src="https://cdn.simpleicons.org/insomnia" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" height="45"/>
 </div>
 
 #
